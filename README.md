@@ -6,7 +6,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python)
 * Awesome Atmosphere
   * Numerical Model
   * Radar
-  * Sattlelite
+  * Satelite
   * Calculating Index  
   * Data Processing/Analysis
   * Machine Learning
